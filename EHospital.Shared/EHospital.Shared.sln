@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHospital.Shared", "EHospital.Shared\EHospital.Shared.csproj", "{DB9863D4-D8AD-4346-9A7B-63B79038269E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHospital.Shared.Tests", "EHospital.Shared.Tests\EHospital.Shared.Tests.csproj", "{EEA44B6F-D1AA-4BA0-9AF1-35C5623121F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9863D4-D8AD-4346-9A7B-63B79038269E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9863D4-D8AD-4346-9A7B-63B79038269E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9863D4-D8AD-4346-9A7B-63B79038269E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9863D4-D8AD-4346-9A7B-63B79038269E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA44B6F-D1AA-4BA0-9AF1-35C5623121F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA44B6F-D1AA-4BA0-9AF1-35C5623121F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA44B6F-D1AA-4BA0-9AF1-35C5623121F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA44B6F-D1AA-4BA0-9AF1-35C5623121F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DA42787-EF58-4420-9B0A-79EB62E3C208}
+	EndGlobalSection
+EndGlobal
